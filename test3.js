@@ -1,0 +1,1 @@
+let string = 'A new bug'
