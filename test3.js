@@ -1,1 +1,1 @@
-let string = 'An old bug'
+let string = 'A new bug'
